@@ -1,0 +1,23 @@
+{
+  "name": "infobot",
+  "version": "1.0.0",
+  "description": "Bot Utilitário para alunos do IFRS",
+  "keywords": [
+    "IFRS"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "InfoBot"
+  },
+  "license": "ISC",
+  "author": "Jonso",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "!ping"
+  },
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7"
+  }
+}
